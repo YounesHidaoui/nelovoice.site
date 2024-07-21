@@ -26,7 +26,7 @@ export default function Testimonials() {
     {
       img: TestimonialImg01,
       quote: "I was skeptical at first, but this AI assistant has made scheduling so much easier. It books appointments and sends reminders, which has cut down on no-shows. It's like having an extra staff member",
-      name: 'Dr. Chen',
+      name: 'Mr Anthony',
       role: 'Dentist'
     },
     {

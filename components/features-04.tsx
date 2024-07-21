@@ -40,7 +40,7 @@ export default function Features04() {
                     </svg>
                     <h4 className="font-medium text-slate-50">Human-Like Conversations</h4>
                   </div>
-                  <p className="text-sm text-slate-400">Human-Like Conversations</p>
+                  <p className="text-sm text-slate-400">Enjoy natural, engaging phone calls that feel like talking to a real person</p>
                 </div>
                 {/* Feature */}
                 <div>
