@@ -15,7 +15,7 @@ export default function Footer() {
                 <div className="mb-4">
                   <Logo />
                 </div>
-                <div className="text-sm text-slate-300">© Cruip.com <span className="text-slate-500">-</span> All rights reserved.</div>
+                <div className="text-sm text-slate-300">Nelovoice.com <span className="text-slate-500">-</span> All rights reserved.</div>
               </div>
               {/* Social links */}
               <ul className="flex">
@@ -49,9 +49,9 @@ export default function Footer() {
             <h6 className="text-sm text-slate-50 font-medium mb-2">Products</h6>
             <ul className="text-sm space-y-2">
               <li>
-                <a className="text-slate-400 hover:text-slate-200 transition duration-150 ease-in-out" href="#0">Features</a>
+                <a className="text-slate-400 hover:text-slate-200 transition duration-150 ease-in-out" href="/">Home</a>
               </li>
-              <li>
+              {/* <li>
                 <a className="text-slate-400 hover:text-slate-200 transition duration-150 ease-in-out" href="#0">Integrations</a>
               </li>
               <li>
@@ -62,7 +62,7 @@ export default function Footer() {
               </li>
               <li>
                 <a className="text-slate-400 hover:text-slate-200 transition duration-150 ease-in-out" href="#0">Our method</a>
-              </li>
+              </li> */}
             </ul>
           </div>
 
@@ -71,9 +71,9 @@ export default function Footer() {
             <h6 className="text-sm text-slate-50 font-medium mb-2">Company</h6>
             <ul className="text-sm space-y-2">
               <li>
-                <a className="text-slate-400 hover:text-slate-200 transition duration-150 ease-in-out" href="#0">About us</a>
+                <a className="text-slate-400 hover:text-slate-200 transition duration-150 ease-in-out" href="/about">About us</a>
               </li>
-              <li>
+              {/* <li>
                 <a className="text-slate-400 hover:text-slate-200 transition duration-150 ease-in-out" href="#0">Diversity & Inclusion</a>
               </li>
               <li>
@@ -84,7 +84,7 @@ export default function Footer() {
               </li>
               <li>
                 <a className="text-slate-400 hover:text-slate-200 transition duration-150 ease-in-out" href="#0">Financial statements</a>
-              </li>
+              </li> */}
             </ul>
           </div>
 
@@ -92,15 +92,15 @@ export default function Footer() {
           <div className="sm:col-span-6 md:col-span-3 lg:col-span-2">
             <h6 className="text-sm text-slate-50 font-medium mb-2">Resources</h6>
             <ul className="text-sm space-y-2">
-              <li>
+              {/* <li>
                 <a className="text-slate-400 hover:text-slate-200 transition duration-150 ease-in-out" href="#0">Community</a>
-              </li>
+              </li> */}
               <li>
-                <a className="text-slate-400 hover:text-slate-200 transition duration-150 ease-in-out" href="#0">Terms of service</a>
+                <a className="text-slate-400 hover:text-slate-200 transition duration-150 ease-in-out" href="/Terms">Terms of service</a>
               </li>
-              <li>
+              {/* <li>
                 <a className="text-slate-400 hover:text-slate-200 transition duration-150 ease-in-out" href="#0">Report a vulnerability</a>
-              </li>
+              </li> */}
             </ul>
           </div>
 
@@ -108,18 +108,18 @@ export default function Footer() {
           <div className="sm:col-span-6 md:col-span-3 lg:col-span-2">
             <h6 className="text-sm text-slate-50 font-medium mb-2">Legals</h6>
             <ul className="text-sm space-y-2">
-              <li>
+              {/* <li>
                 <a className="text-slate-400 hover:text-slate-200 transition duration-150 ease-in-out" href="#0">Refund policy</a>
               </li>
               <li>
                 <a className="text-slate-400 hover:text-slate-200 transition duration-150 ease-in-out" href="#0">Terms & Conditions</a>
-              </li>
+              </li> */}
               <li>
-                <a className="text-slate-400 hover:text-slate-200 transition duration-150 ease-in-out" href="#0">Privacy policy</a>
+                <a className="text-slate-400 hover:text-slate-200 transition duration-150 ease-in-out" href="/Privacy">Privacy policy</a>
               </li>
-              <li>
+              {/* <li>
                 <a className="text-slate-400 hover:text-slate-200 transition duration-150 ease-in-out" href="#0">Brand Kit</a>
-              </li>
+              </li> */}
             </ul>
           </div>
 

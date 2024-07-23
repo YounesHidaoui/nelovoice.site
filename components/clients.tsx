@@ -10,9 +10,10 @@ import Client03 from '@/public/images/client-03.svg'
 import Client04 from '@/public/images/client-04.svg'
 import Client05 from '@/public/images/client-05.svg'
 import Client06 from '@/public/images/client-06.svg'
-import Client07 from '@/public/images/client-07.svg'
-import Client08 from '@/public/images/client-08.svg'
-import Client09 from '@/public/images/client-09.svg'
+
+// import Client07 from '@/public/images/client-07.svg'
+// import Client08 from '@/public/images/client-08.svg'
+// import Client09 from '@/public/images/client-09.svg'
 
 // Import Swiper
 import Swiper, { Autoplay } from 'swiper'
@@ -68,10 +69,11 @@ export default function Clients() {
                 <div className="swiper-slide !w-auto">
                   <Image src={Client05} alt="Client 05" width={86} height={18} />
                 </div>
-                <div className="swiper-slide !w-auto">
+                
+                {/* <div className="swiper-slide !w-auto">
                   <Image src={Client06} alt="Client 06" width={78} height={34} />
-                </div>
-                <div className="swiper-slide !w-auto">
+                </div> */}
+                {/* <div className="swiper-slide !w-auto">
                   <Image src={Client07} alt="Client 07" width={83} height={23} />
                 </div>
                 <div className="swiper-slide !w-auto">
@@ -79,7 +81,7 @@ export default function Clients() {
                 </div>
                 <div className="swiper-slide !w-auto">
                   <Image className="mt-2" src={Client09} alt="Client 09" width={92} height={28} />
-                </div>
+                </div> */}
               </div>
             </div>
           </div>

@@ -25,21 +25,21 @@ export default function Testimonials() {
   const items: Item[] = [
     {
       img: TestimonialImg01,
-      quote: "The ability to capture responses is a game-changer. If a user gets tired of the sign up and leaves, that data is still persisted. Additionally, it's great to be able to select between formats.ture responses is a game-changer.",
-      name: 'Jessie J',
-      role: 'Ltd Head of Product'
+      quote: "I was skeptical at first, but this AI assistant has made scheduling so much easier. It books appointments and sends reminders, which has cut down on no-shows. It's like having an extra staff member",
+      name: 'Mr Anthony',
+      role: 'Dentist'
     },
     {
       img: TestimonialImg02,
-      quote: "I have been using this product for a few weeks now and I am blown away by the results. My skin looks visibly brighter and smoother, and I have received so many compliments on my complexion.",
-      name: 'Mark Luk',
-      role: 'Spark Founder & CEO'
+      quote: "Managing RSVPs used to be a nightmare. Now, the AI takes care of it all - collecting responses, answering common questions, and even sending out event updates. It's saved me so much time and stress!",
+      name: 'Mike',
+      role: 'Event Planner'
     },
     {
       img: TestimonialImg03,
-      quote: "As a busy professional, I don't have a lot of time to devote to working out. But with this fitness program, I have seen amazing results in just a few short weeks. The workouts are efficient and effective.",
-      name: 'Jeff Kahl',
-      role: 'Appy Product Lead'
+      quote: "Running an online store means customer queries can come in at any time. This AI voice agent is like having a 24/7 customer service team. It handles order tracking, returns, and product questions, even when I'm asleep. My customers are happier, and I can focus on growing my business!",
+      name: 'Alex',
+      role: 'Shopify Store Owner'
     }
   ]
 

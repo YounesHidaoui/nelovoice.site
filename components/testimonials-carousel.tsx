@@ -54,10 +54,10 @@ export default function TestimonialsCarousel() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <div>
-              <div className="inline-flex font-medium bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-purple-200 pb-3">The security first platform</div>
+              <div className="inline-flex font-medium bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-purple-200 pb-3">Nelovoice Ai phone agents</div>
             </div>
-            <h2 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">Spot issues faster</h2>
-            <p className="text-lg text-slate-400">All the lorem ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.</p>
+            <h2 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">We made a solution for Every Business</h2>
+            <p className="text-lg text-slate-400">Customer support, front desk help, sales calls, lead generation, telehealth, food ordering, logistics, employee training, and more</p>
           </div>
 
           {/* Carousel built with Swiper.js [https://swiperjs.com/] */}
@@ -77,8 +77,8 @@ export default function TestimonialsCarousel() {
                     <div className="flex flex-col p-6 h-full">
                       <Image className="mb-3" src={CarouselImg01} width={56} height={56} alt="Icon 01" />
                       <div className="grow">
-                        <div className="font-bold text-lg mb-1">Anonymous User</div>
-                        <div className="text-slate-400 mb-3">Incorporate rich user profiling, and facilitate more transactions.</div>
+                        <div className="font-bold text-lg mb-1">Small Business</div>
+                        <div className="text-slate-400 mb-3">Schedule appointments, enhance customer service, and manage quote requests.</div>
                       </div>
                       <div className="text-right">
                         <a className="text-sm font-medium text-slate-300 hover:text-white inline-flex items-center transition duration-150 ease-in-out group" href="#0">Learn More <span className="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span></a>
@@ -97,8 +97,8 @@ export default function TestimonialsCarousel() {
                     <div className="flex flex-col p-6 h-full">
                       <Image className="mb-3" src={CarouselImg02} width={56} height={56} alt="Icon 01" />
                       <div className="grow">
-                        <div className="font-bold text-lg mb-1">Bot Detection</div>
-                        <div className="text-slate-400 mb-3">Incorporate rich user profiling, and facilitate more transactions.</div>
+                        <div className="font-bold text-lg mb-1">Restaurants</div>
+                        <div className="text-slate-400 mb-3">Manage calls, reservations, food ordering, directions, operating hours, and more.</div>
                       </div>
                       <div className="text-right">
                         <a className="text-sm font-medium text-slate-300 hover:text-white inline-flex items-center transition duration-150 ease-in-out group" href="#0">Learn More <span className="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span></a>
@@ -117,8 +117,8 @@ export default function TestimonialsCarousel() {
                     <div className="flex flex-col p-6 h-full">
                       <Image className="mb-3" src={CarouselImg03} width={56} height={56} alt="Icon 01" />
                       <div className="grow">
-                        <div className="font-bold text-lg mb-1">Social integrations</div>
-                        <div className="text-slate-400 mb-3">Incorporate rich user profiling, and facilitate more transactions.</div>
+                        <div className="font-bold text-lg mb-1">Events</div>
+                        <div className="text-slate-400 mb-3">Handle RSVPs, event details, attendee questions, and scheduling.</div>
                       </div>
                       <div className="text-right">
                         <a className="text-sm font-medium text-slate-300 hover:text-white inline-flex items-center transition duration-150 ease-in-out group" href="#0">Learn More <span className="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span></a>
@@ -137,8 +137,8 @@ export default function TestimonialsCarousel() {
                     <div className="flex flex-col p-6 h-full">
                       <Image className="mb-3" src={CarouselImg04} width={56} height={56} alt="Icon 01" />
                       <div className="grow">
-                        <div className="font-bold text-lg mb-1">Progressive Profiling</div>
-                        <div className="text-slate-400 mb-3">Incorporate rich user profiling, and facilitate more transactions.</div>
+                        <div className="font-bold text-lg mb-1">Legal and Medical Practices</div>
+                        <div className="text-slate-400 mb-3">Schedule appointments, manage client intake, handle inquiries, forward calls, and take messages.</div>
                       </div>
                       <div className="text-right">
                         <a className="text-sm font-medium text-slate-300 hover:text-white inline-flex items-center transition duration-150 ease-in-out group" href="#0">Learn More <span className="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span></a>
@@ -157,8 +157,8 @@ export default function TestimonialsCarousel() {
                     <div className="flex flex-col p-6 h-full">
                       <Image className="mb-3" src={CarouselImg05} width={56} height={56} alt="Icon 05" />
                       <div className="grow">
-                        <div className="font-bold text-lg mb-1">Secure Access</div>
-                        <div className="text-slate-400 mb-3">Incorporate rich user profiling, and facilitate more transactions.</div>
+                        <div className="font-bold text-lg mb-1">E-commerce Businesses</div>
+                        <div className="text-slate-400 mb-3">Provide 24/7 customer support, manage order inquiries, handle returns and exchanges, track shipments, and offer product information</div>
                       </div>
                       <div className="text-right">
                         <a className="text-sm font-medium text-slate-300 hover:text-white inline-flex items-center transition duration-150 ease-in-out group" href="#0">Learn More <span className="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span></a>
