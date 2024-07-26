@@ -1,9 +1,9 @@
 import Image from 'next/image'
-import Team from '@/public/images/team.jpg'
+import Team from '@/public/images/oy.png'
 
 export default function Story() {
   return (
-    <section className="relative">
+    <section className="relative mt-32">
 
       {/* Blurred shape */}
       <div className="absolute top-0 -mt-32 left-1/2 -translate-x-1/2 ml-10 blur-2xl opacity-70 pointer-events-none -z-10" aria-hidden="true">
@@ -34,7 +34,7 @@ export default function Story() {
               <div className="max-w-[548px] mx-auto">
                 <div className="text-slate-400 space-y-6">
                 <p>
-    It all started in January 2024 when Othmane and Youness teamed up on a project. We clicked right away, and before we knew it, we were showcasing our AI ideas at a major tech show in Morocco. That’s when it hit us – businesses everywhere were struggling to keep up with customer service around the clock.
+    It all started in April 2024 when Othmane and Younes teamed up on a project. We clicked right away, and before we knew it, we were showcasing our AI ideas at a major tech show in Morocco (GITEX). That’s when it hit us – businesses everywhere were struggling to keep up with customer service around the clock.
 </p>
 <p>
     We saw firsthand how challenging it was for business owners and managers to set up AI phone systems. Most solutions out there seemed to be designed for tech experts, not for the regular folks trying to run their companies. So, we rolled up our sleeves and got to work on something different – an AI phone agent that anyone could set up, no coding required.
@@ -43,7 +43,7 @@ export default function Story() {
     Every day since then, we've been listening to what businesses really need and tweaking our system to make it faster and easier to use. Whether you're running a small shop or a big company, whether you're in healthcare, online sales, or anything in between, we’re here to help you talk to your customers anytime, day or night. 
 </p>
 <p>
-    That’s our promise at LenovoIce – making AI work for you, not the other way around.
+    That’s our promise at NELOVOICE – making AI work for you, not the other way around.
 </p>
 
                 </div>

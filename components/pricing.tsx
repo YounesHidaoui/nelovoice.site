@@ -360,7 +360,8 @@ export default function Pricing() {
           </div>
           <div className="pb-4 border-b border-slate-800">
             <a className="btn-sm text-white bg-purple-500 hover:bg-purple-600 w-full transition duration-150 ease-in-out group" href="#0">
-              Get Started <span className="tracking-normal text-purple-300 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
+              Get Started 
+              <span className="tracking-normal text-purple-300 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
             </a>
           </div>
         </div>

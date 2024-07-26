@@ -20,8 +20,8 @@ export default function Features04() {
 
           {/* Section header */}
           <div className="max-w-3xl pb-12 md:pb-20">
-            <h2 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">Why Choose Nelovoice?</h2>
-            <p className="text-lg text-slate-400">The Ultimate AI Phone Agent Solution for Your Business</p>
+            <h2 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4 ">Why Choose NELOVOICE ?</h2>
+            <p className="text-lg text-slate-400 text-capital">The Ultimate AI Phone Agent Solution For Your Business</p>
           </div>
 
           {/* Rows */}

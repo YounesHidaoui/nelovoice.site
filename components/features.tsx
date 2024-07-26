@@ -34,7 +34,7 @@ export default function Features() {
               <div className="md:w-7/12 lg:w-1/2 order-1 md:order-none max-md:text-center" data-aos="fade-down">
                 {/* Content #1 */}
                 <div>
-                  <div className="inline-flex font-medium bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-purple-200 pb-3"> No code builder</div>
+                  <div className="inline-flex font-medium bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-purple-200 pb-3"> No Code Builder</div>
                 </div>
                 <h3 className="h3 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-3">The first AI phone agent platform built for managers</h3>
                 <p className="text-lg text-slate-400 mb-8">NeloVoice lets you build and launch AI voice assistants in minutes. Whether you're a small shop owner or a corporate manager, NeloVoice gives you the tools to enhance customer service and connect with your apps.</p>

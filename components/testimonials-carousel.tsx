@@ -54,7 +54,7 @@ export default function TestimonialsCarousel() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <div>
-              <div className="inline-flex font-medium bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-purple-200 pb-3">Nelovoice Ai phone agents</div>
+              <div className="inline-flex font-medium bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-purple-200 pb-3  ">Nelovoice Ai Phone Agents</div>
             </div>
             <h2 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">We made a solution for Every Business</h2>
             <p className="text-lg text-slate-400">Customer support, front desk help, sales calls, lead generation, telehealth, food ordering, logistics, employee training, and more</p>
@@ -118,7 +118,8 @@ export default function TestimonialsCarousel() {
                       <Image className="mb-3" src={CarouselImg03} width={56} height={56} alt="Icon 01" />
                       <div className="grow">
                         <div className="font-bold text-lg mb-1">Events</div>
-                        <div className="text-slate-400 mb-3">Handle RSVPs, event details, attendee questions, and scheduling.</div>
+                        <div className="text-slate-400 mb-3">
+                        Handle RSVPs, manage event details, answer attendee questions and coordinate scheduling.</div>
                       </div>
                       <div className="text-right">
                         <a className="text-sm font-medium text-slate-300 hover:text-white inline-flex items-center transition duration-150 ease-in-out group" href="#0">Learn More <span className="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span></a>
@@ -158,7 +159,11 @@ export default function TestimonialsCarousel() {
                       <Image className="mb-3" src={CarouselImg05} width={56} height={56} alt="Icon 05" />
                       <div className="grow">
                         <div className="font-bold text-lg mb-1">E-commerce Businesses</div>
-                        <div className="text-slate-400 mb-3">Provide 24/7 customer support, manage order inquiries, handle returns and exchanges, track shipments, and offer product information</div>
+                        <div className="text-slate-400 mb-3">
+
+                        Provide 24/7 support, manage order inquiries, handle returns and offer product recommendations.
+                          
+                        </div>
                       </div>
                       <div className="text-right">
                         <a className="text-sm font-medium text-slate-300 hover:text-white inline-flex items-center transition duration-150 ease-in-out group" href="#0">Learn More <span className="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span></a>

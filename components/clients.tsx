@@ -11,6 +11,9 @@ import Client04 from '@/public/images/client-04.svg'
 import Client05 from '@/public/images/client-05.svg'
 import Client06 from '@/public/images/client-06.svg'
 
+// import Client07 from '@/public/images/mistral_ai.jpg'
+
+
 // import Client07 from '@/public/images/client-07.svg'
 // import Client08 from '@/public/images/client-08.svg'
 // import Client09 from '@/public/images/client-09.svg'
@@ -69,6 +72,9 @@ export default function Clients() {
                 <div className="swiper-slide !w-auto">
                   <Image src={Client05} alt="Client 05" width={86} height={18} />
                 </div>
+                {/* <div className="swiper-slide !w-auto">
+                  <Image src={Client07} alt="Client 05" width={86} height={18} />
+                </div> */}
                 
                 {/* <div className="swiper-slide !w-auto">
                   <Image src={Client06} alt="Client 06" width={78} height={34} />
