@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import Image from 'next/image'
+
 import LogoImg from '@/public/images/SVG/NeloVoice (2).svg'
 
 export default function Logo() {
